@@ -1,0 +1,19 @@
+----------------------------------------------------------------
+Sun Aug 18 19:20:37 IST 2024:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.17.1.0 - (1913217): instance a816c00e-0191-65c1-1069-00000f38cda8 
+on database directory C:\_GitRepos\PUBLIC\DB\DBDerby with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@33909752 
+Loaded from file:/C:/_GitRepos/PUBLIC/spring-derby-poc/DERBY/db-derby-10.17.1.0-lib/lib/derby.jar
+java.vendor=Azul Systems, Inc.
+java.runtime.version=21.0.3+9-LTS
+user.dir=C:\_GitRepos\PUBLIC\spring-derby-poc
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Aug 18 19:21:57 IST 2024: Shutting down Derby engine
+----------------------------------------------------------------
+Sun Aug 18 19:21:57 IST 2024:
+Shutting down instance a816c00e-0191-65c1-1069-00000f38cda8 on database directory C:\_GitRepos\PUBLIC\DB\DBDerby with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@33909752 
+----------------------------------------------------------------

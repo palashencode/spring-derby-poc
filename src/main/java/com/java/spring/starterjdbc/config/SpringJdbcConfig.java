@@ -17,8 +17,8 @@ public class SpringJdbcConfig {
     SimpleDriverDataSource dataSource = new SimpleDriverDataSource();
     dataSource.setDriver(new org.apache.derby.jdbc.ClientDriver());    
     dataSource.setUrl("jdbc:derby://localhost:1527/DBDerby;create=false");
-        // dataSource.setUsername("guest_user");
-        // dataSource.setPassword("guest_password");
-        return dataSource;
+    dataSource.setUsername("admin");
+    dataSource.setPassword("manage");
+    return dataSource;
     }
 }

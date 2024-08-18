@@ -18,7 +18,7 @@ public class DerbyClientImpl implements DerbyClient{
     
     @Override
     public List<Employee> getAllEmployees() {
-        return jdbcTemplate.query("select * from Derby.emp",new EmployeeMapper());
+        return jdbcTemplate.query("select * from APP.emp",new EmployeeMapper());
     }
     
 }
